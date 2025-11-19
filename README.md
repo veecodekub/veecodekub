@@ -4,10 +4,6 @@
 
 <hr>
 
-### Projects
-  * [Web Shop](https://shop.natsukashiiz.online)
-  * [Tic Tac Toe](https://tictactoe.natsukashiiz.online)
-
 ### Skills 💻
 #### Fontend
   * HTML
@@ -16,9 +12,10 @@
   * JavaScript
   * TypeScript
   * VueJS
-  * NuxtJs
+  * NuxtJS
   * ReactJS
   * NextJS
+  * Shadcn UI
 
 #### Backend
   * SQL
@@ -27,6 +24,7 @@
   * NodeJS
   * NestJS
   * Prisma
+  * Drizzle ORM
 
 #### Server
   * AWS EC2
@@ -34,6 +32,7 @@
 
 #### Database
   * MySQL
+  * PostgreSQL
   * MongoDB
   * Redis
 
