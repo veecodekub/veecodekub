@@ -40,3 +40,4 @@
   * GitHub
   * Docker
   * ChatGPT
+  * Codex
