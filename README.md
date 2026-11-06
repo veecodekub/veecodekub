@@ -1,22 +1,19 @@
 # Hi, I'm V 👋
 
-I'm a Full-Stack Developer focused on **Java/Spring Boot** and **TypeScript**.
-I develop and maintain web applications, backend services, and integrations
-across web and Android.
+I'm a full-stack developer specializing in **Java/Spring Boot** and **TypeScript**. I build web applications, backend services, and integrations for web and Android platforms.
 
-My recent work includes **POS systems**, **payment settlement workflows**,
-**event-driven integrations**, and **automated testing**.
+Recent work includes **POS systems**, **payment-settlement workflows**, **event-driven integrations**, and **automated testing**.
 
 [Portfolio](https://me.veecodekub.dev) · [Email](mailto:weerawat4331@gmail.com)
 
 ## What I Do
 
-- Develop and maintain REST APIs and backend services for POS and logistics systems.
-- Work on product imports, data validation, and asynchronous image processing.
-- Build payment settlement workflows with source-file tracking and duplicate prevention.
+- Build and maintain REST APIs and backend services for POS and logistics platforms.
+- Implement product imports, data validation, and asynchronous image processing.
+- Develop payment-settlement workflows with source-file tracking and duplicate protection.
 - Integrate services through HTTP APIs and Kafka events.
-- Build responsive web interfaces and contribute to Android features.
-- Write automated tests and investigate application issues.
+- Build responsive web interfaces and contribute to Android app development.
+- Write automated tests and troubleshoot application issues.
 
 ## Tech Stack 💻
 
